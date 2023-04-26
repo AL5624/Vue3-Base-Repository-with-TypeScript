@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AL5624/AL-GUI.git"
+    "url": "git+https://github.com/{github-username}/{github-prokect-name}.git"
   },
   "author": "",
   "license": "ISC",
