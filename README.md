@@ -1,2 +1,3 @@
 # Vue3-Base-Repository-with-TypeScript
-Test Description
+
+Default Vue project to start from with basics so I don't have to remember stuff.
